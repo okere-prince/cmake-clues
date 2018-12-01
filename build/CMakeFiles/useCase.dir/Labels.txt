@@ -1,0 +1,13 @@
+# Target labels
+ useCase
+# Source files and their labels
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase-complete.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-install.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-mkdir.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-download.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-update.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-patch.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-configure.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-build.rule

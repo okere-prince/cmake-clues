@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase-complete.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-install.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-mkdir.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-download.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-update.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-patch.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-configure.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/useCase/src/useCase-stamp/useCase-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"useCase"
+		],
+		"name" : "useCase"
+	}
+}

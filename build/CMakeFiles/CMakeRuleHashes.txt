@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+53d413f0777037bfbe0035db8ad48412 CMakeFiles/encoders
+6f2703c5107c60dd68747a2aeba58b52 CMakeFiles/encoders-complete
+53d413f0777037bfbe0035db8ad48412 CMakeFiles/useCase
+03bd68faff98ca4267b9f618a321ea67 CMakeFiles/useCase-complete
+151011356bda78ecf71df85b2613eeab encoders/src/encoders-stamp/encoders-build
+58928b5511685d36609d9582314127f8 encoders/src/encoders-stamp/encoders-configure
+1a7098f0522d6d2b58d929a054908296 encoders/src/encoders-stamp/encoders-download
+789602e0a137166122c529550fa5efdc encoders/src/encoders-stamp/encoders-install
+218ed979b9e6a1e41fb129e60671e986 encoders/src/encoders-stamp/encoders-mkdir
+cea0350a3cc40e6000fed8e5ac26bc5f encoders/src/encoders-stamp/encoders-patch
+f0f9b2d8b4b2bdebe46435ca9bc8d469 encoders/src/encoders-stamp/encoders-update
+834b13162ff5efcb24530e43f3b43e08 useCase/src/useCase-stamp/useCase-build
+1f20e49d59ff8bc060741d754d92917f useCase/src/useCase-stamp/useCase-configure
+4e8a253c664880e30089b1a6453732e4 useCase/src/useCase-stamp/useCase-download
+f77f8114e1f9df6b36cda9bea5f3f4bd useCase/src/useCase-stamp/useCase-install
+b99e8d03a1d6736c91bd9b756ed78c26 useCase/src/useCase-stamp/useCase-mkdir
+c817df4098cd70830508bb6a59e16fa3 useCase/src/useCase-stamp/useCase-patch
+0417da6e4dcc261b2916c28e1ae675b1 useCase/src/useCase-stamp/useCase-update

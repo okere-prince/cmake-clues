@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders-complete.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-install.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-mkdir.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-download.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-update.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-patch.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-configure.rule"
+		},
+		{
+			"file" : "/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"encoders"
+		],
+		"name" : "encoders"
+	}
+}

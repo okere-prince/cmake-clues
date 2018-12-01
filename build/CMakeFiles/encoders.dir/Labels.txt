@@ -1,0 +1,13 @@
+# Target labels
+ encoders
+# Source files and their labels
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders-complete.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-install.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-mkdir.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-download.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-update.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-patch.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-configure.rule
+/home/vagrant/workspace/cpp/cmakeSolution/build/encoders/src/encoders-stamp/encoders-build.rule

@@ -1,0 +1,4 @@
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/edit_cache.dir
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/rebuild_cache.dir
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/useCase.dir
+/home/vagrant/workspace/cpp/cmakeSolution/build/CMakeFiles/encoders.dir

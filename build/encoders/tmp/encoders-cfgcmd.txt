@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-GEclipse CDT4 - Unix Makefiles;/home/vagrant/workspace/cpp/cmakeSolution/src/encoders'
